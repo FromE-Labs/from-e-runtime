@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "From E™ Runtime: External Cognitive Control Layer for AI Language Models"
+abstract: "Documented evidence of cross-session behavioral coherence in large language models and the case for external cognitive governance. Origin Paper and architecture documentation for the From E™ Runtime — a proprietary external cognitive control layer comprising 14 documented cognitive modules."
+type: software
+authors:
+  - family-names: "García"
+    given-names: "Esmeralda"
+    orcid: "https://orcid.org/0009-0006-4076-0663"
+    affiliation: "From E™ Labs (Volyen Project SL), Barcelona, Spain"
+version: "v3"
+date-released: 2026-04-30
+url: "https://github.com/FromE-Labs/from-e-runtime"
+repository-code: "https://github.com/FromE-Labs/from-e-runtime"
+license: CC-BY-4.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.19927551
+    description: "DOI for this version (v3)"
+  - type: doi
+    value: 10.5281/zenodo.19927550
+    description: "DOI for all versions (concept DOI)"
+keywords:
+  - "artificial intelligence"
+  - "large language models"
+  - "AI governance"
+  - "cognitive architecture"
+  - "external governance"
+  - "behavioral coherence"
+  - "LLM alignment"
+  - "runtime governance"
+preferred-citation:
+  type: article
+  title: "From E™ Origin Paper: Documented Evidence of Cross-Session Behavioral Coherence in Large Language Models and the Case for External Cognitive Governance"
+  authors:
+    - family-names: "García"
+      given-names: "Esmeralda"
+      orcid: "https://orcid.org/0009-0006-4076-0663"
+  year: 2026
+  doi: 10.5281/zenodo.19927551
+  url: "https://doi.org/10.5281/zenodo.19927551"
